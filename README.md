@@ -1,6 +1,6 @@
-              ARGV:
+              YARG:
 
-LIST        https://ibb.co/9pKjxQY
+LIST        https://ibb.co/9pKjxQY 
 GET         https://ibb.co/xjtBHf4
 ADD         https://ibb.co/X4h7M6b
 REMOVE      https://ibb.co/sm86rS8
