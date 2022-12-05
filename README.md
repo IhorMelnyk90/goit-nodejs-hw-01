@@ -1,4 +1,4 @@
-              YARG:
+              YARGS:
 
 LIST        https://ibb.co/9pKjxQY 
 GET         https://ibb.co/xjtBHf4
